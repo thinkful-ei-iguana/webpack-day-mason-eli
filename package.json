@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-iguana/webpack-day-mason-eli/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-iguana/webpack-day-mason-eli#readme"
+  "homepage": "https://github.com/thinkful-ei-iguana/webpack-day-mason-eli#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
